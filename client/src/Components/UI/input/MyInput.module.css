@@ -1,0 +1,12 @@
+.myInput {
+    border: none;
+    background: whitesmoke;
+    border-radius: 3px;
+    padding: 5px;
+    width: 100%;
+}
+
+.myInput:focus {
+    background: lightgray;
+    outline: grey 1px solid;
+}
